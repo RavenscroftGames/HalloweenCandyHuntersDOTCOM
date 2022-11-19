@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/halloweencandyhuntersdotcom/static/css/main.26a84e2a.css",
+    "main.js": "/halloweencandyhuntersdotcom/static/js/main.49ded82f.js",
+    "static/media/HCHlogoMED.jpg": "/halloweencandyhuntersdotcom/static/media/HCHlogoMED.818f82ec88c9a69dd566.jpg",
+    "index.html": "/halloweencandyhuntersdotcom/index.html",
+    "main.26a84e2a.css.map": "/halloweencandyhuntersdotcom/static/css/main.26a84e2a.css.map",
+    "main.49ded82f.js.map": "/halloweencandyhuntersdotcom/static/js/main.49ded82f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a84e2a.css",
+    "static/js/main.49ded82f.js"
+  ]
+}
